@@ -1,0 +1,21 @@
+
+Session started at 2025-04-12 03:38:59.285557
+
+
+--- Selection Path ---
+Vendor: Cisco
+Device Type: Switch
+Configuration: Single
+Selected Code: 0006 - switch_show_vlan_brief
+----------------------
+
+Failed to execute script switch_show_vlan_brief: No module named 'scripts'
+
+--- Selection Path ---
+Vendor: Cisco
+Device Type: Switch
+Configuration: Single
+Selected Code: 0004 - switch_show_running_config
+----------------------
+
+Failed to execute script switch_show_running_config: No module named 'scripts'
